@@ -21,7 +21,7 @@ You’ll have to gain an understanding of the user requirements and then build s
 
 # My Certificate 
 
-![]()
+![](https://github.com/iam-binit/JPMorgan-Chase-Virtual-Internship/blob/master/JPMorgan-certificate.pdf)
 
 # Website :- https://in.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk
 
